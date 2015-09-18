@@ -1,2 +1,2 @@
 
-exports.name = "Pichaya";
+exports.name = "Pichaya Vimuktalaba";
